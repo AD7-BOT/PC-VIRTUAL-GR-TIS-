@@ -1,6 +1,6 @@
 workflow to help you get started with Actions
 
-name: CI
+
 
 # Controls when the workflow will run
 on:
